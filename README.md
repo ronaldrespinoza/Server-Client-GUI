@@ -23,6 +23,6 @@ Then to run the program please do the following:
 
 ![clients side by side](https://github.com/ronaldrespinoza/Server-Client-GUI/blob/master/img/Client_1_2.png)
 
-Below is a sample for the Server Chat room interface
+* Below is an example for all three windows used for two users communicating in the Chat Room
 
 ![server with clients](https://github.com/ronaldrespinoza/Server-Client-GUI/blob/master/img/ServerWithClients_Hello.png)
